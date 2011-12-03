@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Rubyzombi Blog!</title>
+ <link href="http://rubyzombi.github.com/atom.xml" rel="self"/>
+ <link href="http://rubyzombi.github.com/"/>
+ <updated>2011-12-02T23:39:27-05:00</updated>
+ <id>http://rubyzombi.github.com.com/</id>
+ <author>
+   <name>Rubyzombi</name>
+   <email>rubyzombi@gmail.com</email>
+ </author>
+
+ 
+
+</feed>
